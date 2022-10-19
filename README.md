@@ -32,6 +32,7 @@ Filha int64 not null,
 Mae string,
 Pai string,
 Cidade string
- )
+)
+
 
 
