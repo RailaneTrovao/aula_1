@@ -26,6 +26,12 @@ Questão 5:
 drop table `turma880.alunos_Railane`
 
 Questão 6:
-
+CREATE TABLE `soy-transducer-365822.turma880.Doterra_Railane` (
+Nome string,
+Filha int64 not null,
+Mae string,
+Pai string,
+Cidade string
+ )
 
 
